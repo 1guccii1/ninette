@@ -20,7 +20,7 @@ body {
 }
 
 .chat-header {
-  background: #0047AB;
+  background: #808080;
   color: white;
   padding: 16px;
   font-size: 1.2em;
@@ -45,7 +45,7 @@ body {
 
 .bot {
   text-align: left;
-  color: #0047AB;
+  color: #008000;
 }
 
 .chat-input {
